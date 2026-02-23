@@ -1,8 +1,14 @@
-# Hi, I'm Prasad Shimpi 
+# Hi, I'm Prasad Shimpi
 
 **Data Scientist | MS Applied Data Science @ Syracuse University**
 
-I build machine learning systems, deploy AI applications, and translate complex data into actionable insights. Currently working as a Graduate Research Assistant at Syracuse University's Lender Centre for Social Justice, building interactive dashboards and analyzing housing policy data for government stakeholders.
+I build end-to-end machine learning systems, deploy AI applications, and translate complex data into decisions that matter. My work spans deep learning for space weather forecasting, NLP explainability for financial models, LLM-powered data pipelines, and predictive analytics for energy and agricultural systems.
+
+Currently working as a **Graduate Research Assistant** at Syracuse University's Lender Centre for Social Justice, where I build interactive geospatial dashboards and analyze housing policy data for government stakeholders and community organizations.
+
+Previously worked as a **Power BI Developer** at Senwell Group, building end-to-end operational data applications using Power Apps, Power Automate, and Snowflake. Before that, as a **Data Scientist** at ChemView Consulting, I automated consulting report generation reducing manual effort from 3+ hours to under 30 minutes.
+
+I hold an **AWS Cloud Practitioner certification** and am currently pursuing **Lean Six Sigma Green Belt** certification alongside coursework in Financial Analytics and Advanced Big Data Management.
 
 ---
 
@@ -17,21 +23,42 @@ I build machine learning systems, deploy AI applications, and translate complex 
 
 ---
 
-## Skills
+## Technical Skills
 
-**Languages:** Python, R, SQL
+**Languages:** Python, R, SQL (MySQL)
 
-**Machine Learning:** Random Forest, Gradient Boosting, XGBoost, Linear/Logistic Regression, K-Means Clustering
+**Machine Learning:** Random Forest, Gradient Boosting, XGBoost, Linear/Logistic Regression, Ridge, Lasso, K-Means Clustering, Feature Engineering, Hyperparameter Tuning
 
-**Deep Learning:** LSTM, CNN, RNN, TensorFlow, Keras
+**Deep Learning:** LSTM, CNN, RNN, TensorFlow, Keras, Model Evaluation
 
-**NLP & LLMs:** FinBERT, LangChain, SHAP, LIME, HuggingFace, Groq
+**NLP & LLMs:** FinBERT, LangChain, SHAP, LIME, HuggingFace, Groq API, OpenAI API
 
-**BI & Visualization:** Power BI, Tableau, Looker Studio, ArcGIS, ggplot2
+**Statistical Methods:** Hypothesis Testing, Bayesian Analysis, Time Series Analysis, Regression Analysis, ANOVA
+
+**BI & Visualization:** Power BI (DAX), Tableau, Looker Studio, ArcGIS Online, ArcGIS Experience Builder, ggplot2, Matplotlib, Seaborn
 
 **Cloud & Databases:** AWS (Cloud Practitioner Certified), Snowflake, MySQL, SQLite
 
-**Other:** Power Apps, Power Automate, Streamlit, GitHub
+**Automation & Development:** Power Apps, Power Automate, Streamlit, GitHub
+
+**Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels
+
+---
+
+## Experience
+
+**Graduate Research Assistant** — Lender Centre for Social Justice, Syracuse University *(Aug 2025 – Present)*
+- Built 5+ ArcGIS dashboards translating census and socioeconomic data into accessible visualizations for policymakers
+- Analyzed housing crisis data and drafted policy recommendations for government stakeholder discussions
+- Standardized 10+ census datasets reducing 30+ columns to 10 key indicators per domain
+
+**Power BI Developer** — Senwell Group Pvt. Ltd *(Apr 2024 – Jul 2024)*
+- Built end-to-end operational data application using Power Apps, Power Automate, and Power BI with Snowflake integration
+- Developed 8+ interactive dashboards enabling stakeholders to filter and drill down through operational data
+
+**Data Scientist** — ChemView Consulting Pvt. Ltd *(Nov 2023 – Mar 2024)*
+- Reduced manual consulting report generation time from 3+ hours to under 30 minutes via Streamlit automation
+- Analyzed 80+ page industry reports across 7 regions to identify automation opportunities
 
 ---
 
@@ -39,11 +66,27 @@ I build machine learning systems, deploy AI applications, and translate complex 
 
 - Graduate Research Assistant at Syracuse University — housing policy dashboards for government stakeholders
 - Coursework: Advanced Big Data Management, Financial Analytics, Lean Six Sigma (Green Belt)
-- Building a Streamlit UI for the Text-to-SQL LangChain project
+- Building Streamlit UI for Text-to-SQL LangChain project with live deployment
+- Developing finance-focused projects: stock price prediction, options pricing, portfolio optimization
 
 ---
 
-## Connect With Me
+## Education
+
+**MS Applied Data Science** — Syracuse University *(Jan 2025 – Dec 2026)* | GPA: 3.61/4.0
+
+**BSc Data Science** — Symbiosis Skills and Professional University, Pune *(Aug 2019 – Aug 2022)* | GPA: 3.38/4.0
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Lean Six Sigma Green Belt *(in progress)*
+
+---
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-shimpi-/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/prasad11s/finbert-llm-explainability)
