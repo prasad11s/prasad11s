@@ -1,4 +1,4 @@
-# Hi, I'm Prasad Shimpi 👋
+# Hi, I'm Prasad Shimpi 
 
 **Data Scientist | MS Applied Data Science @ Syracuse University**
 
@@ -6,7 +6,7 @@ I build machine learning systems, deploy AI applications, and translate complex 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
@@ -17,7 +17,7 @@ I build machine learning systems, deploy AI applications, and translate complex 
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages:** Python, R, SQL
 
@@ -35,15 +35,15 @@ I build machine learning systems, deploy AI applications, and translate complex 
 
 ---
 
-## 📊 Currently Working On
+## Currently Working On
 
-- 🔭 Graduate Research Assistant at Syracuse University — housing policy dashboards for government stakeholders
-- 🌱 Coursework: Advanced Big Data Management, Financial Analytics, Lean Six Sigma (Green Belt)
-- 🔨 Building a Streamlit UI for the Text-to-SQL LangChain project
+- Graduate Research Assistant at Syracuse University — housing policy dashboards for government stakeholders
+- Coursework: Advanced Big Data Management, Financial Analytics, Lean Six Sigma (Green Belt)
+- Building a Streamlit UI for the Text-to-SQL LangChain project
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-shimpi-/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/prasad11s/finbert-llm-explainability)
