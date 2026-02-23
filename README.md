@@ -8,7 +8,7 @@ Currently working as a **Graduate Research Assistant** at Syracuse University's 
 
 Previously worked as a **Power BI Developer** at Senwell Group, building end-to-end operational data applications using Power Apps, Power Automate, and Snowflake. Before that, as a **Data Scientist** at ChemView Consulting, I automated consulting report generation reducing manual effort from 3+ hours to under 30 minutes.
 
-I hold an **AWS Cloud Practitioner certification** and am currently pursuing **Lean Six Sigma Green Belt** certification alongside coursework in Financial Analytics and Advanced Big Data Management.
+I hold an **AWS Cloud Practitioner certification** and am currently pursuing **Lean Six Sigma Green Belt** certification within coursework LSS and also enrolled into courses Financial Analytics and Advanced Big Data Management.
 
 ---
 
