@@ -8,7 +8,7 @@ Currently working as a **Graduate Research Assistant** at Syracuse University's 
 
 Previously worked as a **Power BI Developer** at Senwell Group, building end-to-end operational data applications using Power Apps, Power Automate, and Snowflake. Before that, as a **Data Scientist** at ChemView Consulting, I automated consulting report generation reducing manual effort from 3+ hours to under 30 minutes.
 
-I hold an **AWS Cloud Practitioner certification** and am currently pursuing **Lean Six Sigma Green Belt** certification within coursework LSS and also enrolled into courses Financial Analytics and Advanced Big Data Management.
+I am currently pursuing coursework in Financial Analytics and Advanced Big Data Management.
 
 ---
 
@@ -60,6 +60,22 @@ I hold an **AWS Cloud Practitioner certification** and am currently pursuing **L
 - Reduced manual consulting report generation time from 3+ hours to under 30 minutes via Streamlit automation
 - Analyzed 80+ page industry reports across 7 regions to identify automation opportunities
 
+**Data Analyst Intern** — Data Science Masterminds, Bangalore *(Aug 2023 – Nov 2023)*
+- Developed performance scorecards and business intelligence dashboards using Power BI, Python, SQL, and Excel
+- Conducted data analysis across multiple client projects, applying statistical methods and visualization techniques to identify trends and deliver actionable insights
+
+**Cloud Sales Trainee** — Rapyder Cloud Solutions, Mumbai *(Feb 2022 – Aug 2022)*
+- Supported business development teams in identifying new opportunities through cold calling, email outreach, and LinkedIn prospecting
+- Analyzed annual reports to understand client cloud infrastructure needs and built tailored strategies
+- Gained hands-on familiarity with AWS, Amazon Redshift, and Amazon RDS
+
+**Internship Trainee** — AutomationEdge, Pune *(Sep 2021 – Nov 2021)*
+- Learned and applied Process Studio software to automate workflows, completing foundation exam with 86% score
+- Developed a mini project fetching records of 30 companies with a single click using automated workflow
+
+**Project Intern** — Persistent Systems, Pune *(Jun 2020 – Jul 2020)*
+- Conducted research analyzing the impact of COVID-19 across various countries, applying data collection and comparative analysis methodologies
+
 ---
 
 ## Currently Working On
@@ -75,14 +91,17 @@ I hold an **AWS Cloud Practitioner certification** and am currently pursuing **L
 
 **MS Applied Data Science** — Syracuse University *(Jan 2025 – Dec 2026)* | GPA: 3.61/4.0
 
+*Completed:* Introduction to Data Science, Database Administration and Management, Quantitative Reasoning, Applied Machine Learning, Deep Learning, Business Analytics
+
+*In Progress:* Advanced Big Data Management, Financial Analytics, Lean Six Sigma
+
 **BSc Data Science** — Symbiosis Skills and Professional University, Pune *(Aug 2019 – Aug 2022)* | GPA: 3.38/4.0
 
 ---
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner
-- Lean Six Sigma Green Belt *(in progress)*
+- AWS Certified Cloud Practitioner *(2022)*
 
 ---
 
