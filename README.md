@@ -1,6 +1,6 @@
 # Hi, I'm Prasad Shimpi
 
-**Data Scientist | MS Applied Data Science @ Syracuse University**
+**Graduate Research Assistant | MS Applied Data Science @ Syracuse University**
 
 I build end-to-end machine learning systems, deploy AI applications, and translate complex data into decisions that matter. My work spans deep learning for space weather forecasting, NLP explainability for financial models, LLM-powered data pipelines, and predictive analytics for energy and agricultural systems.
 
