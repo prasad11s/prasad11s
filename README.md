@@ -20,8 +20,8 @@ I am currently pursuing coursework in Financial Analytics and Advanced Big Data 
 | **Aurora Geomagnetic Forecasting** | LSTM neural network for space weather prediction with 48% RMSE improvement over baseline across 1, 3, 6, 12 hour horizons | Python, TensorFlow, Keras, NASA OMNI2 | |
 | **Text to SQL with LangChain** | Query a relational database using plain English via LangChain and Llama 3.3 70B | Python, LangChain, Groq, SQLite | |
 | **Democratic Values & Political Ideology Analysis** | Cross-national analysis of populism's impact on democratic values across six countries using V-Dem dataset (1970 to 2020) | R, rstanarm, Bayesian Analysis, ggplot2 | |
-| **Agricultural Yield Prediction** | Gradient Boosted Decision Tree model predicting pollution's impact on rice crop yields across Indian districts (13,215 records) | R, Shiny, Gradient Boosting, XGBoost | [Live App](https://prasadshimpi.shinyapps.io/agricultural-yield/) |
-| **Energy Demand Forecasting** | Predicting residential energy demand for July using Random Forest and XGBoost in R. R² = 0.478 | R, Shiny, Random Forest, XGBoost | [Live App](https://prasadshimpi.shinyapps.io/energy-demand/) |
+| **Agricultural Yield Prediction** | Gradient Boosted Decision Tree model predicting pollution's impact on rice crop yields across Indian districts (13,215 records) | R, Shiny, Gradient Boosting, XGBoost | 
+| **Energy Demand Forecasting** | Predicting residential energy demand for July using Random Forest and XGBoost in R. R² = 0.478 | R, Shiny, Random Forest, XGBoost | [Live App](https://prasadshimpi.shinyapps.io/eSc_july_pred/) |
 
 ---
 
